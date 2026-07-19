@@ -261,26 +261,48 @@ alt="Contribution Activity Graph"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=WasemAljundy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
-alt="GitHub Trophies"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasemAljundy&theme=tokyonight"
+  width="100%"
+  alt="GitHub Profile Summary"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WasemAljundy&theme=tokyonight"
+  width="48%"
+  alt="Repositories Per Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WasemAljundy&theme=tokyonight"
+  width="48%"
+  alt="Most Commit Language"
 />
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Contribution Insights
 
 <div align="center">
 
 <img
-src="https://github-contributor-stats.vercel.app/api?username=WasemAljundy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
-alt="Top Contributed Repositories"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WasemAljundy&theme=tokyonight"
+  width="48%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WasemAljundy&theme=tokyonight&utcOffset=3"
+  width="48%"
+  alt="Productive Time"
 />
 
 </div>
@@ -292,9 +314,14 @@ alt="Top Contributed Repositories"
 <div align="center">
 
 <img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-alt="Random Developer Quote"
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"
+  width="65%"
+  alt="Random Developer Quote"
 />
+
+<br>
+
+<sub>Building meaningful products through clean code and continuous learning.</sub>
 
 </div>
 
